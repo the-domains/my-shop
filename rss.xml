@@ -4,21 +4,21 @@
         <description><![CDATA[My shop]]></description>
         <link>https://thegrid.ai/my-shop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 13:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 13:44:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-shop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My bike]]></title>
+            <description><![CDATA[<article><h1>My bike</h1><p>Buy it plz?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbf9a5a1ec6494b85dd5d42159d25d971c1dd7f.jpg"></article>]]></description>
+            <link>https://invizor.myshopify.com/products/copy-of-hello-world-sleeve-222</link>
+            <guid isPermaLink="false">2ca2e5e1-8f9b-4981-8914-2f109a0394b6</guid>
+            <pubDate>Mon, 18 Jan 2016 13:44:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://cdn.shopify.com/s/files/1/1131/1884/products/P8200084_498f1eee-3dac-4d3e-ab90-91ae47517598_1024x1024.JPG?v=1453107051">]]></description>
             <link>https://thegrid.ai/my-shop/19496aae-a167-4278-b8c0-165c9de121da/index.html</link>
             <guid isPermaLink="false">19496aae-a167-4278-b8c0-165c9de121da</guid>
             <pubDate>Mon, 18 Jan 2016 13:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://cdn.shopify.com/s/files/1/1131/1884/products/P8200084_498f1eee-3dac-4d3e-ab90-91ae47517598_1024x1024.JPG?v=1453107051">]]></description>
-            <link>https://invizor.myshopify.com/products/copy-of-hello-world-sleeve-222</link>
-            <guid isPermaLink="false">2ca2e5e1-8f9b-4981-8914-2f109a0394b6</guid>
-            <pubDate>Mon, 18 Jan 2016 13:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
